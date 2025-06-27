@@ -6,15 +6,10 @@ This project focuses on retail data analysis for a leading chain in India. The o
 Conduct in-depth analysis using sales and customer data to address:
 
 👥 Customer Segmentation and purchasing behavior
-
 📈 Sales Trend and Seasonality Analysis across time periods and regions
-
 🔄 Cross-Selling Product Opportunities
-
 😊 Customer Satisfaction insights from review scores
-
 🔁 Cohort Analysis to assess retention patterns
-
 🏪 Store-Level Performance insights by region and product category
 
 ### 🧱 Entity Relationship Diagram (ERD)
@@ -22,32 +17,22 @@ Conduct in-depth analysis using sales and customer data to address:
 Data Relationships:
 
 Customers → Orders: One-to-Many
-
 Orders → Stores: Many-to-One
-
 Orders → OrderReviewRatings: One-to-One
-
 Orders → ProductsInfo: Many-to-One
-
 Orders → OrderPayments: One-to-Many
 
 ### 🛠️ Tools & Technologies
 MS SQL Server – Data cleaning, joining, and query-based EDA
-
 Excel – Visualizations (trend charts, pivots, cohort analysis)
-
 ER Diagram – Visual schema mapping
-
 GitHub – Code, visuals, and documentation
 
 ### 📊 Key Tasks Performed
 ✔️ Cleaned and joined data from 6+ related tables using SQL
-
 ✔️ Created relationships using primary and foreign keys
-
 ✔️ Performed EDA to uncover trends by region, time, and product
-
-✔️ Documented findings and uploaded to GitHub with visuals
+✔️ Documented findings and uploaded to GitHub 
 
 ### 📌 Key Observations & Recommendations (Summary)
 📈 Customer Growth Trends: New customer signups peaked in Dec 2022 and Mar 2023; sharp decline in Sep 2023.
