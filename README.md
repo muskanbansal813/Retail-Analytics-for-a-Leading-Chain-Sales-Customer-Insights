@@ -5,12 +5,12 @@ This project focuses on retail data analysis for a leading chain in India. The o
 ### 🎯 Problem Statement
 Conduct in-depth analysis using sales and customer data to address:
 
-👥 Customer Segmentation and purchasing behavior
-📈 Sales Trend and Seasonality Analysis across time periods and regions
-🔄 Cross-Selling Product Opportunities
-😊 Customer Satisfaction insights from review scores
-🔁 Cohort Analysis to assess retention patterns
-🏪 Store-Level Performance insights by region and product category
+- 👥 Customer Segmentation and purchasing behavior
+- 📈 Sales Trend and Seasonality Analysis across time periods and regions
+- 🔄 Cross-Selling Product Opportunities
+- 😊 Customer Satisfaction insights from review scores
+- 🔁 Cohort Analysis to assess retention patterns
+- 🏪 Store-Level Performance insights by region and product category
 
 ### 🧱 Entity Relationship Diagram (ERD)
 
