@@ -15,12 +15,21 @@ Conduct in-depth analysis using sales and customer data to address:
 ### 🧱 Entity Relationship Diagram (ERD)
 
 Data Relationships:
+- **Customers → Orders:** One-to-Many  
+  *One customer can place multiple orders.*
 
-Customers → Orders: One-to-Many
-Orders → Stores: Many-to-One
-Orders → OrderReviewRatings: One-to-One
-Orders → ProductsInfo: Many-to-One
-Orders → OrderPayments: One-to-Many
+- **Orders → Stores:** Many-to-One  
+  *Each order is associated with one store.*
+
+- **Orders → OrderReviewRatings:** One-to-One  
+  *Each order has one corresponding review.*
+
+- **Orders → ProductsInfo:** Many-to-One  
+  *Each order item is linked to a single product.*
+
+- **Orders → OrderPayments:** One-to-Many  
+  *An order can have multiple payment records (e.g., part payments).*
+
 
 ### 🛠️ Tools & Technologies
 MS SQL Server – Data cleaning, joining, and query-based EDA
