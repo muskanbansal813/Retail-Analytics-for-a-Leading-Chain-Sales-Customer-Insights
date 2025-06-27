@@ -32,16 +32,16 @@ Data Relationships:
 
 
 ### 🛠️ Tools & Technologies
-MS SQL Server – Data cleaning, joining, and query-based EDA
-Excel – Visualizations (trend charts, pivots, cohort analysis)
-ER Diagram – Visual schema mapping
-GitHub – Code, visuals, and documentation
+- MS SQL Server – Data cleaning, joining, and query-based EDA
+- Excel – Visualizations (trend charts, pivots, cohort analysis)
+- ER Diagram – Visual schema mapping
+- GitHub – Code, visuals, and documentation
 
 ### 📊 Key Tasks Performed
-✔️ Cleaned and joined data from 6+ related tables using SQL
-✔️ Created relationships using primary and foreign keys
-✔️ Performed EDA to uncover trends by region, time, and product
-✔️ Documented findings and uploaded to GitHub 
+- Cleaned and joined data from 6+ related tables using SQL
+- Created relationships using primary and foreign keys
+- Performed EDA to uncover trends by region, time, and product
+- Documented findings and uploaded to GitHub 
 
 ### 📌 Key Observations & Recommendations (Summary)
 📈 Customer Growth Trends: New customer signups peaked in Dec 2022 and Mar 2023; sharp decline in Sep 2023.
